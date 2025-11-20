@@ -1,4 +1,5 @@
 package com.example.virtualguide.ui.home;
+// Фрагмент главного экрана: список карточек + фильтры
 
 import android.content.Intent;
 import android.os.Bundle;
