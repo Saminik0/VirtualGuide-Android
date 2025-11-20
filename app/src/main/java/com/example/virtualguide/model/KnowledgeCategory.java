@@ -1,4 +1,5 @@
 package com.example.virtualguide.model;
+// Перечисление категорий сущностей в справочнике
 
 public enum KnowledgeCategory {
     CORE("Основные понятия"),
