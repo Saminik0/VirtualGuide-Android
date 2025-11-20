@@ -4,6 +4,7 @@ import com.example.virtualguide.model.KnowledgeCategory;
 import com.example.virtualguide.model.KnowledgeItem;
 import androidx.annotation.Nullable;
 import com.example.virtualguide.model.KnowledgeCategory;
+// Репозиторий данных: хранение и фильтрация сущностей
 
 
 import java.util.ArrayList;
