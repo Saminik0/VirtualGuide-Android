@@ -3,7 +3,7 @@ package com.example.virtualguide;
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
-
+// Главный контейнер приложения VirtualGuide
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // Убираем стандартный ActionBar, чтобы контент был «чистым»
+       
         if (getSupportActionBar() != null) {
             getSupportActionBar().hide();
         }
