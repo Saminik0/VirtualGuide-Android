@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- стандартные цвета проекта -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- наши кастомные -->
+    <color name="bg_main">#050814</color>
+    <color name="bg_card_dark">#101525</color>
+
+    <color name="gradient_start">#FF3C8CE7</color>
+    <color name="gradient_end">#FFFF2F92</color>
+
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+
+    <color name="chip_bg">#181C2A</color>
+    <color name="chip_checked">#FF3C8CE7</color>
+
+    <color name="card_stroke">#303040</color>
+    <color name="card_dark">#141628</color>
+    <color name="card_dark_soft">#1A1E33</color>
+    <color name="progress_track">#30344A</color>
+
+</resources>

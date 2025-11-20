@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- радиальный градиент, похожий на "световое пятно" -->
+    <gradient
+        android:type="radial"
+        android:gradientRadius="160dp"
+        android:centerX="0.5"
+        android:centerY="0.3"
+        android:startColor="@color/gradient_end"
+        android:centerColor="@color/gradient_start"
+        android:endColor="@android:color/transparent" />
+
+    <size
+        android:width="260dp"
+        android:height="260dp" />
+
+    <corners android:radius="130dp" />
+</shape>

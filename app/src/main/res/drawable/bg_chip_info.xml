@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- скругление, чтобы был «пилюлей» -->
+    <corners android:radius="50dp" />
+
+    <!-- тёмный полупрозрачный фон -->
+    <gradient
+        android:type="linear"
+        android:startColor="#252844"
+        android:endColor="#1A1D33"
+        android:angle="0" />
+
+    <!-- тонкий неоновый обвод -->
+    <stroke
+        android:width="1dp"
+        android:color="@color/gradient_end" />
+
+    <padding
+        android:left="12dp"
+        android:top="4dp"
+        android:right="12dp"
+        android:bottom="4dp" />
+</shape>
